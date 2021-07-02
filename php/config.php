@@ -1,8 +1,8 @@
 <?php
-  $hostname = "localhost";
-  $username = "root";
-  $password = "";
-  $dbname = "chatapp";
+  $hostname = "sql6.freesqldatabase.com";
+  $username = "sql6422557";
+  $password = "pNWuaZA4kA";
+  $dbname = "sql6422557";
 
   $conn = mysqli_connect($hostname, $username, $password, $dbname);
   if(!$conn){
